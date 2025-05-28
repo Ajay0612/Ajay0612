@@ -11,8 +11,9 @@
 ---
 
 ## 🧠 About Me
-yaml
+
 name: Ajay Madana
+
 skills:
   - Python, C++, SQL
   - Machine Learning, Deep Learning, NLP, GenAI
