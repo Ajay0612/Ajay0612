@@ -11,7 +11,7 @@
 ---
 
 ## 🧠 About Me
-```yaml
+yaml
 name: Ajay Madana
 skills:
   - Python, C++, SQL
