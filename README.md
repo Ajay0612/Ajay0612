@@ -51,7 +51,7 @@ goal: Build intelligent systems that connect edge devices to actionable insights
 
 | Project | Stack | Description |
 |--------|-------|-------------|
-| Retail & Warehouse Sales Analysis | Machine Learning, AWS SageMaker, AWS S3, Tableau | Analyzes sales trends and optimizes inventory for Montgomery County retail & warehouse |
+| Retail & Warehouse Sales Analysis | Machine Learning, Modular coding,CI/CD, AWS S3, Tableau | Analyzes sales trends and optimizes inventory for Montgomery County retail & warehouse |
 | Weather ETL Pipeline | Astro, Apache Airflow, Docker | Builds a scalable pipeline to extract, transform, and load weather data |
 | GenAI DataQA Pipeline | LLMs, LlamaIndex, Gemini | Automates document-based Q&A using LLM orchestration and Gemini integration |
 | Student Performance Prediction | Machine Learning, CI/CD, AWS CloudEmbeddings | Predicts academic performance using ML pipelines with cloud-native embedding storage |
