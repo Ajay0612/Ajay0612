@@ -1,87 +1,97 @@
-# Hi 👋 I'm Ajay
+## 🧰 Tech Stack (clickable)
 
-<h3 align="center">
-Data Analyst (Primary) | Data Scientist (Secondary)  
-MS in Data Science @ University of Maryland, College Park  
-📍 Washington, DC
-</h3>
+<p align="center">
+  <!-- Core Analyst Stack -->
+  <a href="https://www.postgresql.org/docs/" target="_blank" title="PostgreSQL (SQL + analytics)">
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" title="MySQL">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  </a>
+  <a href="https://aws.amazon.com/redshift/" target="_blank" title="Amazon Redshift">
+    <img src="https://img.shields.io/badge/Redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white"/>
+  </a>
+  <a href="https://www.tableau.com/" target="_blank" title="Tableau Dashboards">
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  </a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" title="Excel: pivots, lookups, dashboards">
+    <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+  </a>
+</p>
 
----
+<p align="center">
+  <!-- Python + Viz -->
+  <a href="https://www.python.org/" target="_blank" title="Python for analytics">
+    <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" title="Pandas">
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  </a>
+  <a href="https://numpy.org/" target="_blank" title="NumPy">
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  </a>
+  <a href="https://matplotlib.org/" target="_blank" title="Matplotlib">
+    <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+  </a>
+</p>
 
-## 👨‍💻 About Me
-
-I’m a **Data Analyst–focused MS Data Science student at UMD** with a strong foundation in **SQL, Excel, Tableau, and Python**, and a secondary background in **applied machine learning**.
-
-I specialize in:
-- Turning **raw, messy data into executive-ready insights**
-- Writing **production-grade SQL** for real business questions
-- Building **decision-driven dashboards**, not just charts
-- Applying ML **only where it directly drives business value**
-
-I’m actively preparing for **entry-level Data Analyst / Business Analyst roles in the US**, with Data Scientist roles as a secondary path.
-
----
-
-## 🛠 Core Skills (Analyst-First)
-
-**Data Analysis & BI**
-- SQL (joins, CTEs, window functions, cohorts, leakage analysis)
-- Excel (pivot tables, XLOOKUP, INDEX-MATCH, analysis modeling)
-- Tableau (KPIs, filters, parameters, calculated fields, executive dashboards)
-- Python (Pandas, NumPy, EDA, data cleaning, visualization)
-
-**Analytics & Methods**
-- Exploratory Data Analysis (EDA)
-- KPI definition & performance tracking
-- A/B testing & experiment analysis
-- Data validation, reconciliation & quality checks
-- Time-series trends & forecasting (basic)
-
-**Databases & Tools**
-- PostgreSQL, MySQL, Redshift
-- Git, Docker
-- AWS (analytics & warehousing basics)
-
-**Secondary (Applied ML)**
-- Regression & classification (scikit-learn, XGBoost)
-- Class imbalance handling (SMOTE, ADASYN)
-- Translating model outputs into business actions
-
----
-
-## 📊 Featured Projects (Real-World Analytics)
-
-### 🏥 Medicare Spend Intelligence — Healthcare Analytics  
-**Stack:** PostgreSQL, Advanced SQL, Data Quality Validation  
-- Analyzed **19.4M Medicare claims ($182.8B spend)** to uncover cost drivers and inefficiencies  
-- Built a **100% completeness / 99.9% financial integrity** validation framework  
-- Identified **$3.5–4.0B in annual savings opportunities** via outlier, geographic, and utilization analysis  
-- Delivered **executive-ready insights** for cost control and fraud prevention  
+<p align="center">
+  <!-- Tools -->
+  <a href="https://git-scm.com/" target="_blank" title="Git">
+    <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" title="Docker">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank" title="AWS">
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-### 🛒 From Clicks to Cash — Ecommerce Growth Analytics  
-**Stack:** SQL, PostgreSQL, Tableau  
-- Analyzed **~125K ecommerce orders** across the full customer funnel  
-- Used cohorts, window functions, and leakage analysis to quantify **$23.1M revenue upside**  
-- Built **executive Tableau dashboards** and a prioritized growth roadmap  
+## 🧠 What I use these for (expand)
+
+<details>
+  <summary><b>SQL (PostgreSQL / Redshift / MySQL)</b></summary>
+
+- Joins, CTEs, window functions, aggregations  
+- Cohorts, retention, funnel + leakage analysis  
+- Validation: reconciliation, duplicates, outliers  
+
+</details>
+
+<details>
+  <summary><b>Tableau + Excel</b></summary>
+
+- Executive KPI dashboards (filters, parameters, calculated fields)  
+- Fast analysis + stakeholder-ready reporting  
+- Clean handoff: readable dashboards + documented metrics  
+
+</details>
+
+<details>
+  <summary><b>Python (secondary support)</b></summary>
+
+- Data cleaning, EDA, visualization  
+- Quick modeling when needed (classification/regression)  
+
+</details>
+
+<details>
+  <summary><b>Applied ML (secondary)</b></summary>
+
+- scikit-learn, XGBoost  
+- Class imbalance: SMOTE / ADASYN  
+- Convert predictions → action buckets (low/medium/high risk)  
+
+</details>
 
 ---
 
-### 🏦 Bank Customer Churn Prediction — Applied ML (Secondary)  
-**Stack:** Python, scikit-learn, XGBoost  
-- Built churn models on **10,000 customers** with severe class imbalance  
-- Improved recall & F1 using SMOTE/ADASYN  
-- Converted model outputs into **low / medium / high-risk churn buckets** with retention actions  
+## ⚡ Skill Icons (optional clean row)
 
----
-
-## 🔗 Connect With Me
-
-- **LinkedIn:** https://www.linkedin.com/in/ajay-madana-217316256  
-- **Portfolio:** https://ajay0612.github.io/my-website/  
-- **Email:** ajaymadana2126@gmail.com  
-
----
-
-📌 *This GitHub focuses on analytics projects that simulate real business work — SQL analysis, dashboards, and decision-driven insights.*
+<!-- Uses https://github.com/tandpfun/skill-icons -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,postgres,mysql,aws,docker,git&perline=6" />
+</p>
