@@ -129,7 +129,8 @@ My work simulates **real analyst workflows**: data validation, KPI definition, s
 **Stack:** SQL, PostgreSQL, Tableau  
 - Validated and analyzed **125,569 orders, 182,235 order items, 100,000 users, and 29,120 products** from TheLook ecommerce data to diagnose revenue growth, leakage, AOV, product mix, and retention performance  
 - Identified that only **55.2% of potential 2019–2024 revenue was realized**, with **24.9% tied to cancellations/returns** and a **15.1% cancellation rate**, focusing recommendations on pre-fulfillment leakage reduction  
-- Quantified a **$23.1M modeled annual revenue opportunity** across cancellation reduction, retention improvement, cross-sell, AOV optimization, and SKU rationalization; delivered an executive Tableau dashboard and prioritized growth roadmap  
+- Quantified a **$23.1M modeled annual revenue opportunity** across cancellation reduction, retention improvement, cross-sell, AOV optimization, and SKU rationalization; delivered an executive Tableau dashboard and prioritized growth roadmap
+-  🔗 [View project](https://github.com/Ajay0612/From-Clicks-to-Cash)  
 
 ---
 
