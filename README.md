@@ -116,12 +116,12 @@ My work simulates **real analyst workflows**: data validation, KPI definition, s
 
 ## 📊 Featured Projects (Real-World Analytics)
 
-### 🏥 Medicare Spend Intelligence — Healthcare Analytics  
-**Stack:** PostgreSQL, Advanced SQL, Data Quality Validation  
-- Analyzed **19.4M Medicare claims ($182.8B spend)**  
-- Built **100% completeness / 99.9% financial integrity** checks  
-- Identified **$3.5–4.0B annual savings opportunities**  
-- Delivered executive-ready insights for cost control & fraud prevention  
+### 📈 Fund Operations Control & Exception Management — Investment Operations Analytics  
+**Stack:** Excel, Python, SEC N-PORT, Power Query Design, Data Quality Controls  
+- Built an end-to-end fund operations monitoring project using public SEC N-PORT and iShares ETF holdings data across **5 funds, 25 snapshots, and 98,927 holdings**  
+- Designed configurable controls and exception logic, identifying **1,252 operational exceptions**, including **93 High/Critical items** and **20 critical reconciliation gaps**  
+- Modeled an automation scenario showing **112.7 hours saved**, **16.1 analyst-days released**, and **8.0 working days for a two-analyst team**  
+- 🔗 [View project](https://github.com/Ajay0612/fund-operations-control-analytics)  
 
 ---
 
@@ -133,11 +133,11 @@ My work simulates **real analyst workflows**: data validation, KPI definition, s
 
 ---
 
-### 🏦 Bank Customer Churn Prediction — Applied ML (Secondary)  
-**Stack:** Python, scikit-learn, XGBoost  
-- Modeled churn on **10,000 customers** with severe imbalance  
-- Improved recall & F1 using SMOTE / ADASYN  
-- Converted outputs into **low / medium / high-risk churn buckets**  
+### 🤖 Efficient LLM Fine-Tuning for Math Reasoning — Applied AI  
+**Stack:** Python, PyTorch, Hugging Face Transformers, PEFT/LoRA, bitsandbytes  
+- Fine-tuned **Microsoft Phi-2 (2.7B)** on GSM8K using **4-bit NF4 QLoRA**, training only **0.06% of parameters**  
+- Reduced VRAM requirements from approximately **10GB to 4GB** on a single T4 GPU  
+- Built an error-driven training pipeline and evaluation workflow, achieving **52.9% Exact Match** and **0.44 ROUGE-L** on multi-step reasoning tasks  
 
 ---
 
