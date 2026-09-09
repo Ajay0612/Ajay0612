@@ -152,8 +152,7 @@ My work simulates **real analyst workflows**: data validation, KPI definition, s
 
 ## 🔗 Connect With Me
 
-- **LinkedIn:** https://www.linkedin.com/in/ajay-madana-217316256  
-- **Portfolio:** https://ajay0612.github.io/my-website/  
+- **LinkedIn:** https://www.linkedin.com/in/ajay-madana-217316256   
 - **Email:** ajaymadana2126@gmail.com  
 
 ---
