@@ -116,12 +116,12 @@ My work simulates **real analyst workflows**: data validation, KPI definition, s
 
 ## 📊 Featured Projects (Real-World Analytics)
 
-### 📈 Fund Operations Control & Exception Management — Investment Operations Analytics  
+### 📈 Fund Operations Control & Exception Management — Investment Operations Analytics(https://github.com/Ajay0612/fund-operations-control-analytics)  
 **Stack:** Excel, Python, SEC N-PORT, Power Query Design, Data Quality Controls  
 - Built an end-to-end fund operations monitoring project using public SEC N-PORT and iShares ETF holdings data across **5 funds, 25 snapshots, and 98,927 holdings**  
 - Designed configurable controls and exception logic, identifying **1,252 operational exceptions**, including **93 High/Critical items** and **20 critical reconciliation gaps**  
 - Modeled an automation scenario showing **112.7 hours saved**, **16.1 analyst-days released**, and **8.0 working days for a two-analyst team**  
-- 🔗 [View project](https://github.com/Ajay0612/fund-operations-control-analytics)  
+ 
 
 ---
 
@@ -130,7 +130,7 @@ My work simulates **real analyst workflows**: data validation, KPI definition, s
 - Validated and analyzed **125,569 orders, 182,235 order items, 100,000 users, and 29,120 products** from TheLook ecommerce data to diagnose revenue growth, leakage, AOV, product mix, and retention performance  
 - Identified that only **55.2% of potential 2019–2024 revenue was realized**, with **24.9% tied to cancellations/returns** and a **15.1% cancellation rate**, focusing recommendations on pre-fulfillment leakage reduction  
 - Quantified a **$23.1M modeled annual revenue opportunity** across cancellation reduction, retention improvement, cross-sell, AOV optimization, and SKU rationalization; delivered an executive Tableau dashboard and prioritized growth roadmap
--  🔗 [View project](https://github.com/Ajay0612/From-Clicks-to-Cash)  
+ 
 
 ---
 
