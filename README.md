@@ -116,7 +116,7 @@ My work simulates **real analyst workflows**: data validation, KPI definition, s
 
 ## 📊 Featured Projects (Real-World Analytics)
 
-### 📈 Fund Operations Control & Exception Management — Investment Operations Analytics(https://github.com/Ajay0612/fund-operations-control-analytics)  
+### 📈 [Fund Operations Control & Exception Management — Investment Operations Analytics](https://github.com/Ajay0612/fund-operations-control-analytics)  
 **Stack:** Excel, Python, SEC N-PORT, Power Query Design, Data Quality Controls  
 - Built an end-to-end fund operations monitoring project using public SEC N-PORT and iShares ETF holdings data across **5 funds, 25 snapshots, and 98,927 holdings**  
 - Designed configurable controls and exception logic, identifying **1,252 operational exceptions**, including **93 High/Critical items** and **20 critical reconciliation gaps**  
